@@ -1,0 +1,14 @@
+names:
+- bodyak
+- osot
+- zhavel
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: sornyak-detect
+  url: https://universe.roboflow.com/neys/sornyak-detect/dataset/2
+  version: 2
+  workspace: neys
+test: ../test/images
+train: E:/yolov7_weed/sornyak-detect-2/train/images
+val: E:/yolov7_weed/sornyak-detect-2/valid/images
